@@ -4,7 +4,7 @@ This project contains an R script for analyzing data related to Goal 5 of the 20
 
 ## File Structure
 
-- `goal5 (1).R`: R script for data analysis.
+- `Gaol5 Analysis.R`: R script for data analysis.
 - `Goal5.xlsx`: Excel file containing the data to be analyzed.
 - `README.md`: This documentation file.
 
