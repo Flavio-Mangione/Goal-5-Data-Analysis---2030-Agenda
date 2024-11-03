@@ -1,5 +1,7 @@
 # Goal 5 Data Analysis
 
+![Goal 5](https://www.atlanteguerre.it/wp-content/uploads/2020/12/SDG-5-grande-en.jpg)
+
 This project contains an R script for analyzing data related to Goal 5 of the 2030 Agenda.
 
 ## File Structure
